@@ -31,12 +31,14 @@
 ## 文件结构
 ```markdown
 frontend/
-├── home.html       # 首页，展示联系人列表及操作入口
-├── index.html      # 系统入口页面
-├── add.html        # 添加联系人表单页面
-├── edit.html       # 编辑联系人表单页面
-├── style.css       # 全局样式文件，统一页面风格
-└── README.md       # 项目说明文档
+├── codestyle.md    # 代码风格文档
+├── README.md       # 项目说明文档
+└── src/       # 项目说明文档
+    ├── home.html       # 首页，展示联系人列表及操作入口
+    ├── index.html      # 系统入口页面
+    ├── add.html        # 添加联系人表单页面
+    ├── edit.html       # 编辑联系人表单页面
+    └── style.css       # 全局样式文件，统一页面风格
 ```
 
 
